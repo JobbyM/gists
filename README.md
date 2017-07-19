@@ -181,3 +181,33 @@ for 循环遍历数组
 
 * JobbyM/[12.js](https://gist.github.com/JobbyM/d4801e470a76b472fd38dc405bcfa168)
 for 循环遍历链表数据结构，并返回链表中最后一个对象
+
+* JobbyM/[11.js](https://gist.github.com/JobbyM/ca497c29cb6e751c0c4b308bfb0b19fd)
+转换和相等性
+
+* JobbyM/[10.js](https://gist.github.com/JobbyM/e66c5cd1d30410b880b638e17c928df5)
+作为私有命名空间的函数
+
+* JobbyM/[9.js](https://gist.github.com/JobbyM/27acc96606abdc9fcaee87e294e8b721)
+属性描述符工具函数
+
+* JobbyM/[8.js](https://gist.github.com/JobbyM/cdc3da3a3e75d6dfe11867736fe48eff)
+定义不可枚举的属性
+
+* JobbyM/[7.js](https://gist.github.com/JobbyM/851eecb55eb83e65f2f54d406b804473)
+获取函数名字
+
+* JobbyM/[Complex.js](https://gist.github.com/JobbyM/0a5b35cd952a34a4221dfb557a1c9b2f)
+表示复数的类
+
+* JobbyM/[6.js](https://gist.github.com/JobbyM/96bd6540519fa27e4524cac18d4bb4c1)
+对象的类属性
+
+* JobbyM/[5.js](https://gist.github.com/JobbyM/9744750d1d3049a3a33ff9fe0c535ccd)
+复制属性的特性
+
+* JobbyM/[4.js](https://gist.github.com/JobbyM/8d2a4d0c5bbd858cbd7b16c33b6fc0ca)
+枚举属性
+
+* JobbyM/[3.js](https://gist.github.com/JobbyM/3643d57963229486a3cf94229862af8d)
+通过原型继承创建一个新对象
