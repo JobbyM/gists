@@ -151,3 +151,33 @@ replaceChild() 的另一种个用法
 
 * JobbyM/[22.js](https://gist.github.com/JobbyM/281c6ad509741b9ab18ac6e9f2ceb377)
 textContent 方法
+
+* JobbyM/[21.js](https://gist.github.com/JobbyM/df074fda2b1b107486fd8144e2ebde31)
+可移植的文档的遍历函数
+
+* JobbyM/[20.js](https://gist.github.com/JobbyM/7aa3e6358dbd4a9613f8ac99c33cc4a4)
+提取URL 的搜索字符串中的参数
+
+* JobbyM/[19.js](https://gist.github.com/JobbyM/2a5bc5882096faa1b5c989595b4ac911)
+定时器应用函数
+
+* JobbyM/[18.js](https://gist.github.com/JobbyM/2909eedd628b0f6cfbeff0af757fdf40)
+onLoad()， 当文档载入完成时调用一个函数
+
+* JobbyM/[17.js](https://gist.github.com/JobbyM/914fee93268eb382497d0628ebf1b399)
+异步载入并执行脚本
+
+* JobbyM/[16.js](https://gist.github.com/JobbyM/16e68ecc2c77017b078ca826f8009a80)
+JavaScript 正则表达式 RegExp
+
+* JobbyM/[15.js](https://gist.github.com/JobbyM/ecef7abf07b324b858261b3e29a40b5b)
+ECMAScript 3 判断一个对象是否为数组
+
+* JobbyM/[14.js](https://gist.github.com/JobbyM/9b0028ad6a3158f8cdd95082dc7414da)
+数组方法 sort
+
+* JobbyM/[13.js](https://gist.github.com/JobbyM/9e4f13cb562e5be11f0cfa2f990587ef)
+for 循环遍历数组
+
+* JobbyM/[12.js](https://gist.github.com/JobbyM/d4801e470a76b472fd38dc405bcfa168)
+for 循环遍历链表数据结构，并返回链表中最后一个对象
