@@ -121,3 +121,33 @@ CSS 定位示例：文本阴影
 
 * JobbyM/[32.js](https://gist.github.com/JobbyM/db9ad8e0ef7a8e143b64ee93e9e8b1e8)
 从文本输入域或`<textarea>` 元素中获取选取的文本代码
+
+* JobbyM/[31.js](https://gist.github.com/JobbyM/ba4edf1f1c4197f062a3bb19792621d9)
+查询选取的文本
+
+* JobbyM/[30.js](https://gist.github.com/JobbyM/89f5efcf67faded96b0456937ffcb8be)
+查询窗口的视口尺寸
+
+* JobbyM/[29.js](https://gist.github.com/JobbyM/80bb8e2952e1587be024297f3d152e0f)
+查询窗口滚动条的位置
+
+* JobbyM/[28.js](https://gist.github.com/JobbyM/e9d122b59ab7e0eae1609fd434e55602)
+生成目录表
+
+* JobbyM/[27.js](https://gist.github.com/JobbyM/280c658532069570cbe9d16f2f9274e5)
+使用innerHTML 实现insertAdjacentHTML()
+
+* JobbyM/[26.js](https://gist.github.com/JobbyM/8b2a6f452798708685c441430d175d26)
+倒序排列节点n 的子节点
+
+* JobbyM/[25.js](https://gist.github.com/JobbyM/6066fc0a6941d189c5cbb2964a655139)
+replaceChild() 的另一种个用法
+
+* JobbyM/[24.js](https://gist.github.com/JobbyM/83d589e08ac85a89467be00603a59a31)
+从指定的URL，异步加载和执行脚本
+
+* JobbyM/[23.js](https://gist.github.com/JobbyM/2ab73650d36b99367a12fb062d0ee840)
+查找元素的后代中节点中的所有Text 节点
+
+* JobbyM/[22.js](https://gist.github.com/JobbyM/281c6ad509741b9ab18ac6e9f2ceb377)
+textContent 方法
