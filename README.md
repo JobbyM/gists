@@ -211,3 +211,9 @@ for 循环遍历链表数据结构，并返回链表中最后一个对象
 
 * JobbyM/[3.js](https://gist.github.com/JobbyM/3643d57963229486a3cf94229862af8d)
 通过原型继承创建一个新对象
+
+* JobbyM/[2.js](https://gist.github.com/JobbyM/032bfeaf6dae3c8885cda2ecd6921530)
+MongoDB、mongoose
+
+* JobbyM/[1.js](https://gist.github.com/JobbyM/dd288ebc565c9f6ce08c7571ada2cb6c)
+JS闭包，每隔一秒输出一次
