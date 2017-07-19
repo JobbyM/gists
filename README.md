@@ -91,3 +91,33 @@ overrideMimeType不要把响应作为XML 文档处理
 
 * JobbyM/[41.js](https://gist.github.com/JobbyM/dec6e658dbf979acb40caab649247e2c)
 键盘快捷键的Keymap 类
+
+* JobbyM/[40.js](https://gist.github.com/JobbyM/f6c8b8dbbde4ffcee17bb018a4b7952f)
+使用propertychange 事件探测文本输入
+
+* JobbyM/[39.js](https://gist.github.com/JobbyM/47afe0cb151de6771557fec1b08f37e5)
+过滤用户输入
+
+* JobbyM/[38.js](https://gist.github.com/JobbyM/4245204d1eff214b4cda05f53c534c35)
+当文档准备就绪时调用函数
+
+* JobbyM/[37.js](https://gist.github.com/JobbyM/a729c68d3752107845fdcac77baaf3e6)
+事件取消
+
+* JobbyM/[36.js](https://gist.github.com/JobbyM/90ecdc0412d107b11317798fe8d9f4b7)
+事件处理程序的运行环境
+
+* JobbyM/[35.js](https://gist.github.com/JobbyM/1d500d59bcc8c8304f686f8ee89223c4)
+创建一个新样式表
+
+* JobbyM/[34.js](https://gist.github.com/JobbyM/5b8155138645f901374644f8ba970461)
+classList()：将className 当作一个CSS 类集合
+
+* JobbyM/[33.js](https://gist.github.com/JobbyM/8d10ee528961093cc9717b4ecb25ce5b)
+查询计算样式与设置内联样式
+
+* JobbyM/[1.html](https://gist.github.com/JobbyM/573a23779e6b14817c5afbe6dc419bde)
+CSS 定位示例：文本阴影
+
+* JobbyM/[32.js](https://gist.github.com/JobbyM/db9ad8e0ef7a8e143b64ee93e9e8b1e8)
+从文本输入域或`<textarea>` 元素中获取选取的文本代码
