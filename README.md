@@ -61,3 +61,33 @@ WebSocket API 的使用
 
 * JobbyM/[cookieStorage.js](https://gist.github.com/JobbyM/d71986e97045a49c28cb80dc1f611880)
 cookieStorage.js 实现基于cookie存储API
+
+* JobbyM/[49.js](https://gist.github.com/JobbyM/f60ff011ec5a8450984f10cc9cc58ae1)
+存储cookie、获取cookie
+
+* JobbyM/[EventSourceEmulation.js](https://gist.github.com/JobbyM/2e566aafca06c63bd24cf399d646269a)
+一个使用EventSource 的简易聊天客户端
+
+* JobbyM/[48.js](https://gist.github.com/JobbyM/a7150a5400daa19f3b4a46e8d5082c2a)
+使用script 元素发送JSONP 请求
+
+* JobbyM/[47.js](https://gist.github.com/JobbyM/ad31162efbb9edadaa6fbb2dd9ba49e1)
+使用HEAD 和CORS 请求链接详细信息
+
+* JobbyM/[46.js](https://gist.github.com/JobbyM/8a530ee7f380b3e6d63b1fea61ddd395)
+实现超时
+
+* JobbyM/[45.js](https://gist.github.com/JobbyM/41232a2258cb4bc94b7c29fcc161838f)
+监控HTTP 上传进度
+
+* JobbyM/[44.js](https://gist.github.com/JobbyM/6ff12efae1d6c61dab2b47e66cb4c4e4)
+用于HTTP 请求的编码对象
+
+* JobbyM/[43.js](https://gist.github.com/JobbyM/06b60650a7173725c7a6a2808e172eb3)
+overrideMimeType不要把响应作为XML 文档处理
+
+* JobbyM/[42.js](https://gist.github.com/JobbyM/e9a09e45cd6ecea9753c005cc497286b)
+取得响应
+
+* JobbyM/[41.js](https://gist.github.com/JobbyM/dec6e658dbf979acb40caab649247e2c)
+键盘快捷键的Keymap 类
