@@ -2,6 +2,9 @@
 记录gists，便于查找
 
 # 目录
+* JobbyM/[range.js](https://gist.github.com/JobbyM/282d012efcba4a750296274605c6cdc3)
+一个简单的JavaScript 类
+
 * JobbyM/[server.js](https://gist.github.com/JobbyM/141237e852991579bfc2733f63fd368e)
 使用WebSocket 和Node 的聊天服务器
 
