@@ -2,6 +2,9 @@
 记录gists，便于查找
 
 # 目录
+* JobbyM/[defineClass.js](https://gist.github.com/JobbyM/86d32006cbd02d0242fc9db58b7c9cfc)
+一个用以定义简单类的函数
+
 * JobbyM/[range.js](https://gist.github.com/JobbyM/282d012efcba4a750296274605c6cdc3)
 一个简单的JavaScript 类
 
