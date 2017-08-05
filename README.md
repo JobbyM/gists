@@ -2,6 +2,9 @@
 记录gists，便于查找
 
 # 目录
+* JobbyM/[type.js](https://gist.github.com/JobbyM/4aebf78f8fbb82357213e937d0b17b78)
+可以判断值的类型的type()函数
+
 * JobbyM/[defineClass.js](https://gist.github.com/JobbyM/86d32006cbd02d0242fc9db58b7c9cfc)
 一个用以定义简单类的函数
 
